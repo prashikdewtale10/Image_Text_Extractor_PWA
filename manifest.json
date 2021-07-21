@@ -2,7 +2,7 @@
     "name":"Image Text Extractor",
     "short_name": "Text Extractor",
     "theme_color": "#185ADB",
-    "background_color": "#dcf321",
+    "background_color": "#fff",
     "display": "fullscreen",
     "orientation": "portrait",
     "start_url": "index.html",
